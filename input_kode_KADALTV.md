@@ -26,6 +26,6 @@
 
 ## Restart APK atau Klik Tahan Lama SIARAN LANSUNG
 
-░▒▓█ 𝙃𝙖𝙥𝙥𝙮 𝙒𝙖𝙩𝙘𝙝𝙞𝙣𝙜 █▓▒░
+# ░▒▓█ 𝙃𝙖𝙥𝙥𝙮 𝙒𝙖𝙩𝙘𝙝𝙞𝙣𝙜 █▓▒░
 
 # [Homepage](https://ar135ta.github.io/alltv/)
