@@ -1,6 +1,6 @@
-# *Cara Masukkan Kode OTT Navigator KADALTV*
+# *Cara Memasukkan Kode ke OTT Navigator KADALTV*
 
-## Masuk **Settings** tab
+## Masuk tab **Settings**
 
 ![Settings](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.1.png)
 
@@ -8,7 +8,7 @@
 
 ![Pengaturan diperpanjang](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.2.png)
 
-## Cadangkan dan pulihkan
+## Pilih **"Cadangkan dan pulihkan"**
 
 ![Cadangkan dan pulihkan](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.3.png)
 
@@ -20,9 +20,9 @@
 
 ![Masukkan Kode dari ADMIN](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.5.png)
 
-## Pulihkan Status klik Segala sesuatu
+## Pilih **"Segala sesuatu"** ini akan otomatis ke Beranda
 
-![Pilihkan Status](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.6.png)
+![Segala sesuatu](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.6.png)
 
 ## Restart APK atau Klik Tahan Lama SIARAN LANSUNG
 
