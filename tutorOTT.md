@@ -20,7 +20,7 @@
 
 ![Masukkan Kode dari ADMIN](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.5.png)
 
-## Pilihkan Status klik Segala sesuatu
+## Pulihkan Status klik Segala sesuatu
 
 ![Pilihkan Status](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.6.png)
 
