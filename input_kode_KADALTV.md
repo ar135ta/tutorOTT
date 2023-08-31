@@ -26,4 +26,6 @@
 
 ## Restart APK atau Klik Tahan Lama SIARAN LANSUNG
 
+# *HAPPY WATCHING OTT Navigator KADALTV*
+
 # [Homepage](https://ar135ta.github.io/alltv/)
