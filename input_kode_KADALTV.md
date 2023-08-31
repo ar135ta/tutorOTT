@@ -1,4 +1,4 @@
-# *Cara Masukkan Kode OTT Navigator*
+# *Cara Masukkan Kode OTT Navigator KADALTV*
 
 ## Masuk **Settings** tab
 
@@ -12,7 +12,7 @@
 
 ![Cadangkan dan pulihkan](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.3.png)
 
-## Select "Muat cadangan dan konfigurasi yang dibuat sebelumnya"
+## Pilih "Muat cadangan dan konfigurasi yang dibuat sebelumnya"
 
 ![Muat cadangan dan konfigurasi yang dibuat sebelumnya](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.4.png)
 
