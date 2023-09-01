@@ -1,8 +1,10 @@
 
 
-# Free IPTV Player and Channel Playlist
+# INPUT KODE, SETTING dan TIPS di OTT NAVIGATOR 
 
-| [Cara Memasukkan Kode ke OTT Navigator KADALTV](#cara-memasukkan-kode-ke-ott-navigator-kadaltv) | [OTT TIPS](#ott-tips) | [SET TAMPILAN](#set-tampilan)
+| [Cara Memasukkan Kode ke OTT Navigator KADALTV](#cara-memasukkan-kode-ke-ott-navigator-kadaltv) 
+| [OTT TIPS](#ott-tips) 
+| [SET TAMPILAN](#set-tampilan)
 
 
 ## *Cara Memasukkan Kode ke OTT Navigator KADALTV*
