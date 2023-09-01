@@ -2,7 +2,7 @@
 
 # INPUT KODE, SETTING dan TIPS di OTT NAVIGATOR 
 
-| [Cara Input kode di OTT Navigator](#cara-memasukkan-kode-ke-ott-navigator-kadaltv) | [OTT Tips](#ott-tips) | [SET Tampilan](#set-tampilan)
+| [Cara Input kode di OTT Navigator](#cara-memasukkan-kode-ke-ott-navigator-kadaltv) | [OTT APK](#ott-apk) | [OTT Tips](#ott-tips) | [SET Tampilan](#set-tampilan)
 
 
 ## *Cara Memasukkan Kode ke OTT Navigator KADALTV*
@@ -35,7 +35,8 @@
 
 # ░▒▓█ 𝙃𝙖𝙥𝙥𝙮 𝙒𝙖𝙩𝙘𝙝𝙞𝙣𝙜 █▓▒░
 
-Link apk OTT Navigator Premium 1.6.5:
+## *OTT APK*
+## Link apk OTT Navigator Premium 1.6.5:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott165)
 
