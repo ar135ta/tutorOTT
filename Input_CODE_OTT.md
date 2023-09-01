@@ -1,9 +1,9 @@
 # INPUT KODE, SETTING dan TIPS di OTT NAVIGATOR 
 
 
-▶️[A# Cara Input kode di OTT Navigator](#a-cara-memasukkan-kode-ke-ott-navigator-kadaltv)◀️ ▶️[B# OTT APK](#b-ott-apk)◀️ ▶️[C# MEMILIH PROVIDER](#c-memilih-provider)◀️ ▶️[D# OTT Tips](#d-ott-tips)◀️ ▶️[E# SET Tampilan](#e-set-tampilan)◀️
+▶️[❤️️# Cara Input kode di OTT Navigator](#a-cara-memasukkan-kode-ke-ott-navigator-kadaltv)◀️ ▶️[❤️️# OTT APK](#b-ott-apk)◀️ ▶️[❤️️# MEMILIH PROVIDER](#c-memilih-provider)◀️ ▶️[❤️️# OTT Tips](#d-ott-tips)◀️ ▶️[❤️️# SET Tampilan](#e-set-tampilan)◀️
 
-## *A# Cara input Kode ke OTT Navigator KADALTV*
+## *❤️️# Cara input Kode ke OTT Navigator KADALTV*
 
 ## 1. Masuk tab **Settings**
 
@@ -34,15 +34,15 @@
 
 # ░▒▓█ 𝙃𝙖𝙥𝙥𝙮 𝙒𝙖𝙩𝙘𝙝𝙞𝙣𝙜 █▓▒░
 
-## *B# OTT APK*
+## *❤️️# OTT APK*
 ## Link apk OTT Navigator Premium 1.6.5:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott165)
 
-## *C# MEMILIH PROVIDER*
+## *❤️️# MEMILIH PROVIDER*
 ![Memilih Provider](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/PILIH_PROVIDER.png)
 
-## *D# OTT TIPS*
+## *❤️️# OTT TIPS*
 ## Cara seting channel tersusun rapi di OTT:-
 
 - SETTING 
@@ -51,7 +51,7 @@
 - SHORT CHANNEL BY 
 - ORDER FROM PROVIDER LIST
 - 
-## *E# SET TAMPILAN*
+## *❤️️# SET TAMPILAN*
 ## Cara seting tampilan OTT seperti Wiseplay:-
 
 - SETTING
