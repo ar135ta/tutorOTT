@@ -1,8 +1,7 @@
 
-
 # INPUT KODE, SETTING dan TIPS di OTT NAVIGATOR 
 
-▶️ [Cara Input kode di OTT Navigator](#cara-memasukkan-kode-ke-ott-navigator-kadaltv) ◀️ ▶️ [OTT APK](#ott-apk) ◀️ ▶️ [MEMILIH PROVIDER](#memilih-provider) ◀️ ▶️ [OTT Tips](#ott-tips) ◀️ ▶️ [SET Tampilan](#set-tampilan) ◀️
+▶️[Cara Input kode di OTT Navigator](#cara-memasukkan-kode-ke-ott-navigator-kadaltv)◀️ ▶️[OTT APK](#ott-apk)◀️ ▶️[MEMILIH PROVIDER](#memilih-provider)◀️ ▶️[OTT Tips](#ott-tips)◀️ ▶️[SET Tampilan](#set-tampilan)◀️
 
 
 ## *Cara Memasukkan Kode ke OTT Navigator KADALTV*
