@@ -1,3 +1,5 @@
+
+ 	$${\color{lightgreen}Light \space Green}$$
 # *Cara input Kode ke OTT Navigator KADALTV*
 
 ## 1. Masuk tab **Settings**
