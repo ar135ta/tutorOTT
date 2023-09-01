@@ -31,5 +31,5 @@
 
 # ░▒▓█ 𝙃𝙖𝙥𝙥𝙮 𝙒𝙖𝙩𝙘𝙝𝙞𝙣𝙜 █▓▒░
 
-# [link apk OTT](https://bit.ly/ott165)
+# [apk OTT Silahkan di klik](https://bit.ly/ott165)
 # [Homepage](https://ar135ta.github.io/alltv/)
