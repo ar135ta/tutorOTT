@@ -31,5 +31,5 @@
 
 # ░▒▓█ 𝙃𝙖𝙥𝙥𝙮 𝙒𝙖𝙩𝙘𝙝𝙞𝙣𝙜 █▓▒░
 
-## link apk ==>> https://dl4.apkhome.net/f/2021/11/OTT_NAVIGATOR_1.6.5.5_MustHave.apk 
+## link apk OTT ==>> https://bit.ly/ott165
 # [Homepage](https://ar135ta.github.io/alltv/)
