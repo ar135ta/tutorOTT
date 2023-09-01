@@ -1,4 +1,11 @@
-# *Cara Memasukkan Kode ke OTT Navigator KADALTV*
+
+
+# Free IPTV Player and Channel Playlist
+
+| [Cara Memasukkan Kode ke OTT Navigator KADALTV](#cara-memasukkan-kode-ke-ott-navigator-kadaltv) | [OTT TIPS](#ott-tips) | [SET TAMPILAN](#cara-set-tampilan-seperti-wiseplay-ott)
+
+
+## *Cara Memasukkan Kode ke OTT Navigator KADALTV*
 
 ## 1. Masuk tab **Settings**
 
@@ -32,5 +39,21 @@ Link apk OTT Navigator Premium 1.6.5:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott165)
 
+## *OTT TIPS*
+## CARA SET CHANNEL TERSUSUN RAPI OTT:-
+
+- SETTING 
+- LIST SETTING 
+- SELECT SORT ORDER 
+- SHORT CHANNEL BY 
+- ORDER FROM PROVIDER LIST
+  
+## CARA SET TAMPILAN SEPERTI WISEPLAY OTT:-
+
+- SETTING
+- LIST SETTING 
+- HOW LIST SHOULD BE DISPLAYED - LARGE CARD - BACK
+- LIST POSITION ON SCREEN - CENTER - BACK
+- LIST SIZE ON SCREEN - 100%
 
 # [Homepage](https://ar135ta.github.io/alltv/)
