@@ -40,7 +40,7 @@ Link apk OTT Navigator Premium 1.6.5:
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott165)
 
 ## *OTT TIPS*
-## CARA SET CHANNEL TERSUSUN RAPI OTT:-
+## Cara seting channel tersusun rapi di OTT:-
 
 - SETTING 
 - LIST SETTING 
@@ -49,7 +49,7 @@ Link apk OTT Navigator Premium 1.6.5:
 - ORDER FROM PROVIDER LIST
 - 
 ## *SET TAMPILAN*
-## CARA SET TAMPILAN SEPERTI WISEPLAY OTT:-
+## Cara seting tampilan OTT seperti Wiseplay:-
 
 - SETTING
 - LIST SETTING 
