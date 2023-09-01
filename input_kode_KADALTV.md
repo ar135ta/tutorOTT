@@ -50,7 +50,7 @@
 - SELECT SORT ORDER 
 - SHORT CHANNEL BY 
 - ORDER FROM PROVIDER LIST
-- 
+  
 ## *E.* SET TAMPILAN**
 ## Cara seting tampilan OTT seperti Wiseplay:-
 
