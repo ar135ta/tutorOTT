@@ -41,7 +41,7 @@
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott175)
 
-### *atau dibawah ini (sesuaikan dengan device anda yang support apk OTT)*
+ *atau dibawah ini (sesuaikan dengan device anda yang support apk OTT)*
 
 ## Download apk OTT Navigator Premium 1.6.5 dibawah ini:
 
