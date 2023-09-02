@@ -66,4 +66,5 @@
 - LIST POSITION ON SCREEN - CENTER - BACK
 - LIST SIZE ON SCREEN - 100%
 
-# [Homepage](https://ar135ta.github.io/alltv/)
+# ❤️️ 🇹‌🇭‌🇦‌🇳‌🇰‌🇸‌ 🇫‌🇴‌🇷‌ 🇾‌🇴‌🇺‌🇷‌ 🇸‌🇺‌🇵‌🇵‌🇴‌🇷‌🇹‌ ❤️️
+# 💖𝐁𝐞𝐬𝐭 𝐑𝐞𝐠𝐚𝐫𝐝𝐬 𝐊𝐚𝐝𝐚𝐥𝐓𝐕 💖
