@@ -37,11 +37,13 @@
 
 ## *B.* *OTT APK*
 
-## Link apk OTT Navigator Premium 1.7.0:
+## Download apk OTT Navigator Premium 1.7.0 dibawah ini:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott175)
 
-## Link apk OTT Navigator Premium 1.6.5:
+atau
+
+## Download apk OTT Navigator Premium 1.6.5 dibawah ini:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott165)
 
