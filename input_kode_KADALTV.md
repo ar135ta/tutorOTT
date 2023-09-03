@@ -1,11 +1,11 @@
 # INPUT KODE, SETTING dan TIPS di OTT NAVIGATOR 
 
 
-<br>▶️==>  [A. OTT APK](#a-ott-apk) 
-<br>▶️==>  [B. Cara input Kode ke OTT Navigator KADALTV](#b-cara-input-kode-ke-ott-navigator-kadaltv) 
-<br>▶️==>  [C. Memilih Provider](#c-memilih-provider) 
-<br>▶️==>  [D. OTT Tips](#d-ott-tips) 
-<br>▶️==>  [E. SET Tampilan](#e-set-tampilan)
+<br><b>🔴   _[A. OTT APK](#a-ott-apk)_</b>
+<br><b>🔴   _[B. Cara input Kode ke OTT Navigator KADALTV](#b-cara-input-kode-ke-ott-navigator-kadaltv)_</b>
+<br><b>🔴   _[C. Memilih Provider](#c-memilih-provider)_</b>
+<br><b>🔴   _[D. OTT Tips](#d-ott-tips)_</b>
+<br><b>🔴   _[E. SET Tampilan](#e-set-tampilan)_</b>
 
 
 ## *A.* *OTT APK*
@@ -87,3 +87,5 @@
 # 💖 𝐁𝐞𝐬𝐭 𝐑𝐞𝐠𝐚𝐫𝐝𝐬 𝐊𝐚𝐝𝐚𝐥𝐓𝐕 💖
 
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
+
+>## "Sebaik-baik manusia adalah orang yang bermanfaat bagi manusia lainnya." *(HR. Thabrani dan Daruquthni)*
