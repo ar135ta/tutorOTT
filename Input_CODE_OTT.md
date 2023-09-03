@@ -3,12 +3,9 @@
 
 ▶️[A. OTT APK](#b-ott-apk)◀️ ▶️[B. Cara Input kode di OTT Navigator KADALTV](#a-cara-memasukkan-kode-ke-ott-navigator-kadaltv)◀️ ▶️[C. MEMILIH PROVIDER](#c-memilih-provider)◀️ ▶️[D. OTT Tips](#d-ott-tips)◀️ ▶️[E. SET Tampilan](#e-set-tampilan)◀️
 
-## Install APKnya dulu, sesuaikan Device anda yang support OTTnya
-_________________________________________________________________
-_________________________________________________________________
 
 ## *A.* *OTT APK*
-
+## Install APKnya dulu, sesuaikan Device anda yang support OTTnya
 ## Download apk OTT Navigator Premium 1.7.0 ↙️:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott175)
