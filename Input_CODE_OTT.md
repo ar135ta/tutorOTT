@@ -3,7 +3,8 @@
 
 ▶️[A. OTT APK](#b-ott-apk)◀️ ▶️[B. Cara Input kode di OTT Navigator](#a-cara-memasukkan-kode-ke-ott-navigator-kadaltv)◀️ ▶️[C. MEMILIH PROVIDER](#c-memilih-provider)◀️ ▶️[D. OTT Tips](#d-ott-tips)◀️ ▶️[E. SET Tampilan](#e-set-tampilan)◀️
 
-# !Install APKnya dulu, sesuaikan Device anda yang support OTTnya!
+## Install APKnya dulu, sesuaikan Device anda yang support OTTnya
+_________________________________________________________________
 
 ## *A.* *OTT APK*
 
