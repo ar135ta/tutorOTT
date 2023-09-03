@@ -1,7 +1,7 @@
-# INPUT KODE, SETTING dan TIPS di OTT NAVIGATOR 
+# INPUT KODE, SETTING dan TIPS di OTT NAVIGATOR
 
 
-▶️[A. OTT APK](#a-ott-apk)◀️ ▶️[B. Cara input Kode ke OTT Navigator KADALTV](#b-cara-input-kode-ke-ott-navigator-kadaltv)◀️ ▶️[C. MEMILIH PROVIDER](#c-memilih-provider)◀️ ▶️[D. OTT Tips](#d-ott-tips)◀️ ▶️[E. SET Tampilan](#e-set-tampilan)◀️
+<br>▶️>>  [A. OTT APK](#a-ott-apk)</br> <br>▶️>>  [B. Cara input Kode ke OTT Navigator KADALTV](#b-cara-input-kode-ke-ott-navigator-kadaltv)</br> <br>▶️>>  [C. Memilih Provider](#c-memilih-provider)</br> <br>▶️>>  [D. OTT Tips](#d-ott-tips)</br> <br>▶️>>  [E. SET Tampilan](#e-set-tampilan)</br>
 
 
 ## *A.* *OTT APK*
@@ -52,7 +52,7 @@
 
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
-## *C.* *MEMILIH PROVIDER*
+## *C.* *Memilih Provider*
 ![Memilih Provider](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/PILIH_PROVIDER.png)
 
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
