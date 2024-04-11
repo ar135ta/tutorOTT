@@ -41,8 +41,6 @@
 
 ## 6. Pilih **"Segala sesuatu"** ini akan otomatis ke Beranda
 
-![Segala sesuatu](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/No.6.png)
-
 ## 7. Restart APK atau Klik Tahan Lama SIARAN LANSUNG
 
 
