@@ -11,14 +11,10 @@
 ## *A.* *OTT APK*
 **_Install APKnya dulu, sesuaikan Device anda yang support OTTnya_**
 
-## Download apk OTT Navigator Premium 1.7.0 ↙️:
+## Download apk OTT Navigator Premium 1.7.0.2 ↙️:
 
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott175)
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://sfile.mobi/9y7twn565aR)
 
-
-## Download apk OTT Navigator Premium 1.6.5 ↙️:
-
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://bit.ly/ott165)
 
 
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
@@ -48,8 +44,6 @@
 ![Masukkan Kode dari ADMIN](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT%20Eng/5.png)
 
 ## 6. Pilih **"Everything"** ini akan otomatis ke Beranda
-
-![Everything](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT%20Eng/6.png)
 
 ## 7. Restart APK atau Klik Tahan Lama LIVE STREAM
 
