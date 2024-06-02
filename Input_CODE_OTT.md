@@ -8,7 +8,7 @@
 <br><b>🔴   _[E. SET Tampilan](#e-set-tampilan)_</b>
 
 
-## *A.* *OTT APK*
+## 🔴 *A.* *OTT APK*
 **_Install APKnya dulu, sesuaikan Device anda yang support OTTnya_**
 
 ## Download apk OTT Navigator Premium 1.7.0.2 ↙️:
@@ -20,7 +20,7 @@
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
 
-## *B.* *Cara input Kode ke OTT Navigator KADALTV*
+## 🔴 *B.* *Cara input Kode ke OTT Navigator KADALTV*
 
 
 ## 1. Masuk tab **Settings**
@@ -56,15 +56,19 @@
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
 
-## *C.* *Tips OTT*
+## 🔴 *C.* *Tips OTT*
 
 ![Tombol SWITCH atau Memilih Provider](https://ar135ta.github.io/tutorOTT/TUTOR%20PIP/Switch.png)
 
 **_Tombol Switch ini fungsinya untuk pilih Provider (ada 4 PROVIDER), ini menyesuaikan keinginan kita saja, Rekomended pilih no 1 saja VIDIO karna disitu saya update berkala._**
 
+░▒▓█ ======*******======= █▓▒░
+
 ![Live Stream atau Siaran Lansung](https://ar135ta.github.io/tutorOTT/TUTOR%20PIP/Livestream.png)
 
 **_Live Stream atau Siaran Lansung ini fungsinya untuk Menonton PROVIDER yang kita pilih._**
+
+░▒▓█ ======*******======= █▓▒░
 
 ![Media Library atau Perpustakaan Media](https://ar135ta.github.io/tutorOTT/TUTOR%20PIP/Movies.png)
 
@@ -73,7 +77,7 @@
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
 
-## *D.* *OTT Tips*
+## 🔴 *D.* *OTT Tips*
 ## Cara seting channel tersusun rapi di OTT:-
 
 - SETTING 
@@ -86,7 +90,7 @@
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
 
-## *E.* *SET Tampilan*
+## 🔴 *E.* *SET Tampilan*
 ## Cara seting tampilan OTT seperti Wiseplay:-
 
 - SETTING
