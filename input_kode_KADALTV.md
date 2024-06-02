@@ -65,7 +65,7 @@
 ## 🔹 Icon Media Library:-
 - Media Library atau Perpustakaan Media ini fungsinya untuk Menonton MOVIES atau VOD
   
-## 🔹 Cara seting channel tersusun rapi di OTT:-
+## 🔹 Cara seting channel tersusun rapi di OTT (OPTIONAL):-
 
 - SETTING 
 - LIST SETTING 
@@ -76,7 +76,7 @@
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
 ## *E.* *SET Tampilan*
-## Cara seting tampilan OTT seperti Wiseplay:-
+## Cara seting tampilan OTT seperti Wiseplay (OPTIONAL):-
 
 - SETTING
 - LIST SETTING 
