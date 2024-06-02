@@ -60,7 +60,7 @@
 
 ![Tombol SWITCH atau Memilih Provider](https://ar135ta.github.io/tutorOTT/TUTOR%20PIP/Switch.png)
 
-**_Tombol Switch ini fungsinya untuk pilih Provider (ada 4 PROVIDER), ini menyesuaikan keinginan kita saja, Rekomended pilih no 1 saja VIDIO karna disitu saya update berkala._**
+# _Tombol Switch ini fungsinya untuk pilih Provider (ada 4 PROVIDER), ini menyesuaikan keinginan kita saja, Rekomended pilih no 1 saja VIDIO karna disitu saya update berkala._
 
 ღ(¯`◕‿◕´¯) ♫ ♪ ♫ ===***=== ♫ ♪ ♫ (¯`◕‿◕´¯)ღ
 
@@ -68,7 +68,7 @@
 
 ![Live Stream atau Siaran Lansung](https://ar135ta.github.io/tutorOTT/TUTOR%20PIP/Livestream.png)
 
-**_Live Stream atau Siaran Lansung ini fungsinya untuk Menonton PROVIDER yang kita pilih._**
+# _Live Stream atau Siaran Lansung ini fungsinya untuk Menonton PROVIDER yang kita pilih._
 
 ღ(¯`◕‿◕´¯) ♫ ♪ ♫ ===***=== ♫ ♪ ♫ (¯`◕‿◕´¯)ღ
 
@@ -76,7 +76,7 @@
 
 ![Media Library atau Perpustakaan Media](https://ar135ta.github.io/tutorOTT/TUTOR%20PIP/Movies.png)
 
-**_Media Library atau Perpustakaan Media ini fungsinya untuk Menonton MOVIES atau VOD._**
+# _Media Library atau Perpustakaan Media ini fungsinya untuk Menonton MOVIES atau VOD._
 
 ღ(¯`◕‿◕´¯) ♫ ♪ ♫ ===***=== ♫ ♪ ♫ (¯`◕‿◕´¯)ღ
 
