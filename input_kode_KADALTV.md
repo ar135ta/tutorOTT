@@ -43,7 +43,7 @@
 
 ## 7. Restart APK
 
-## 8. Saat kembali buka APK, biasakan NOTIFIKASI di pojok kiri bawah muncul dulu, ini untuk menghindari Gagal Update Provider
+## 8. Saat kembali buka APK, biasakan NOTIFIKASI di pojok kiri bawah muncul dulu, ini untuk menghindari Gagal Update Provider (PENTING)
 
 
 # ░▒▓█ 𝙃𝙖𝙥𝙥𝙮 𝙒𝙖𝙩𝙘𝙝𝙞𝙣𝙜 █▓▒░
