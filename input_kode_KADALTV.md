@@ -57,13 +57,13 @@
 
 ## *D.* *OTT Tips*
 
-## Icon Live Stream:-
+## 🔹 Icon Live Stream:-
 - Live Stream atau Siaran Lansung ini fungsinya untuk Menonton PROVIDER yang kita pilih
   
-## Icon Media Library:-
+## 🔹 Icon Media Library:-
 - Media Library atau Perpustakaan Media ini fungsinya untuk Menonton MOVIES atau VOD
   
-## Cara seting channel tersusun rapi di OTT:-
+## 🔹 Cara seting channel tersusun rapi di OTT:-
 
 - SETTING 
 - LIST SETTING 
