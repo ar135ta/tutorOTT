@@ -1,15 +1,15 @@
 # INPUT KODE, SETTING dan TIPS di OTT NAVIGATOR
 
 
-<br><b>🔴   _[A. OTT APK](#a-ott-apk)_</b>
+<br><b>🔴   _[A. OTT NAVIGATOR APK](#a-ott-apk)_</b>
 <br><b>🔴   _[B. Cara input Kode ke OTT Navigator KADALTV](#b-cara-input-kode-ke-ott-navigator-kadaltv)_</b>
 <br><b>🔴   _[C. Fungsi Tombol OTT](#c-fungsi-tombol-ott)_</b>
 <br><b>🔴   _[D. OTT Tips](#d-ott-tips)_</b>
 <br><b>🔴   _[E. SET Tampilan](#e-set-tampilan)_</b>
 
 
-## 🔴 *A.* *OTT APK*
-**_Install APKnya dulu, sesuaikan Device anda yang support OTTnya_**
+## 🔴 *A.* *OTT NAVIGATOR APK*
+**_APK OTT Navigatornya dibawah ini_**
 
 ## Download apk OTT Navigator Premium 1.7.0.2 ↙️:
 
