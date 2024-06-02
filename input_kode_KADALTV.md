@@ -76,7 +76,7 @@
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
 ## *E.* *SET Tampilan*
-## Cara seting tampilan OTT seperti Wiseplay (Optional):-
+## 🔹 Cara seting tampilan OTT seperti Wiseplay (Optional):-
 
 - SETTING
 - LIST SETTING 
