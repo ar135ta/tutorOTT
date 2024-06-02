@@ -53,7 +53,7 @@
 ## *C.* *Memilih Provider*
 ![Memilih Provider](https://ar135ta.github.io/tutorOTT/TUTOR%20PIP/Switch.png)
 
-#### _Tombol Switch ini fungsinya untuk pilih Provider (ada 4 PROVIDER), ini menyesuaikan keinginan kita saja, Rekomended pilih no 1 saja VIDIO karna disitu saya update berkala._
+### _Tombol Switch ini fungsinya untuk pilih Provider (ada 4 PROVIDER), ini menyesuaikan keinginan kita saja, Rekomended pilih no 1 saja VIDIO karna disitu saya update berkala._
 
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
