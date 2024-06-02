@@ -41,7 +41,9 @@
 
 ## 6. Pilih **"Segala sesuatu"** ini akan otomatis ke Beranda
 
-## 7. Restart APK atau Klik Tahan Lama SIARAN LANSUNG
+## 7. Restart APK
+
+## 8. Saat kembali buka APK, biasakan NOTIFIKASI di POJOK KIRI BAWAH muncul dulu, ini untuk menghindari GAGAL UPDATE PROVIDER
 
 
 # ░▒▓█ 𝙃𝙖𝙥𝙥𝙮 𝙒𝙖𝙩𝙘𝙝𝙞𝙣𝙜 █▓▒░
