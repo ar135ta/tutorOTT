@@ -49,11 +49,20 @@
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
 ## *C.* *Memilih Provider*
-![Memilih Provider](https://raw.githubusercontent.com/ar135ta/alltv/main/TUTOR%20OTT/PILIH_PROVIDER.png)
+![Memilih Provider](https://ar135ta.github.io/tutorOTT/TUTOR%20PIP/Switch.png)
+
+#### _Tombol Switch ini fungsinya untuk pilih Provider (ada 4 PROVIDER), ini menyesuaikan keinginan kita saja, Rekomended pilih no 1 saja VIDIO karna disitu saya update berkala._
 
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
 ## *D.* *OTT Tips*
+
+## Icon Live Stream:-
+- Live Stream atau Siaran Lansung ini fungsinya untuk Menonton PROVIDER yang kita pilih
+  
+## Icon Media Library:-
+- Media Library atau Perpustakaan Media ini fungsinya untuk Menonton MOVIES atau VOD
+  
 ## Cara seting channel tersusun rapi di OTT:-
 
 - SETTING 
