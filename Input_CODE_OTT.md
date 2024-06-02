@@ -9,7 +9,6 @@
 
 
 ## 🔴 *A.* *OTT NAVIGATOR APK*
-**_APK OTT Navigatornya dibawah ini_**
 
 ## Download apk OTT Navigator Premium 1.7.0.2 ↙️:
 
