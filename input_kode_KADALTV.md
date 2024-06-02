@@ -9,8 +9,8 @@
 
 
 ## *A.* *OTT APK*
-**_Install APKnya dulu, sesuaikan Device anda yang support OTTnya_**
-## Download apk OTT Navigator Premium 1.7.0.2 ↙️:
+
+## KLIK Download apk OTT Navigator Premium 1.7.0.2 dibawah ini:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://sfile.mobi/9y7twn565aR)
 
