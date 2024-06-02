@@ -3,7 +3,7 @@
 
 <br><b>🔴   _[A. OTT APK](#a-ott-apk)_</b>
 <br><b>🔴   _[B. Cara input Kode ke OTT Navigator KADALTV](#b-cara-input-kode-ke-ott-navigator-kadaltv)_</b>
-<br><b>🔴   _[C. Memilih Provider](#c-memilih-provider)_</b>
+<br><b>🔴   _[C. Fungsi Tombol OTT](#c-fungsi-tombol-ott)_</b>
 <br><b>🔴   _[D. OTT Tips](#d-ott-tips)_</b>
 <br><b>🔴   _[E. SET Tampilan](#e-set-tampilan)_</b>
 
@@ -57,7 +57,7 @@
 
 ⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅🛑🛑🛑⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅⑅
 
-## 🔴 *C.* *Tips OTT*
+## 🔴 *C.* *Fungsi Tombol OTT*
 
 ![Tombol SWITCH atau Memilih Provider](https://ar135ta.github.io/tutorOTT/TUTOR%20PIP/Switch.png)
 
